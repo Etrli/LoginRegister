@@ -1,10 +1,9 @@
 {
   "name": "loginregister",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
-    "dev":"node --watch ./app/index"
+    "dev": "node --watch ./app/index.js"
   },
   "repository": {
     "type": "git",
@@ -27,5 +26,6 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.10"
-  }
+  },
+  "description": ""
 }
